@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "391396401528",
+    "firebase_url": "https://alwarqa-dc.firebaseio.com",
+    "project_id": "alwarqa-dc",
+    "storage_bucket": "alwarqa-dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391396401528:android:952f642b25a57c36c5288d",
+        "android_client_info": {
+          "package_name": "com.alwarqasurvey.dc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391396401528-7tuntn6eo47g73pjb3mpdl7fqr6orpu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alwarqasurvey.dc",
+            "certificate_hash": "3efa936efe274d1cfc71b723d2baf2e386aad64f"
+          }
+        },
+        {
+          "client_id": "391396401528-0a5851sr2bi7tdckp4tfh6jfdqp3talh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAk68jchUo4tskGWEuEl9xlTVYdC87lOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391396401528-0a5851sr2bi7tdckp4tfh6jfdqp3talh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
